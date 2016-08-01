@@ -1,0 +1,6 @@
+dependencies:
+ - name: ztb
+   version: 0.0.0
+   src: htmlwidgets/ztb
+   script: ZTB.js
+   stylesheet: ztb.css

@@ -1,0 +1,6 @@
+.table-display {
+  font-size: 13px;
+  font-family: monospace;
+  overflow: auto;
+  white-space: nowrap;
+}
